@@ -1,2 +1,2 @@
 <center><img src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif" alt="Girl in a jacket" width="700" height="300"></center> <br><br>
-<img src="https://cdnb.artstation.com/p/assets/images/images/060/941/461/original/christopher-cline-lofi-genesis-discord.gif?1679651276" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 796px; height: 262px; margin: 0px; width: 465px;" alt="Lofi Gif" jsname="kn3ccd">
+<center><img src="https://cdnb.artstation.com/p/assets/images/images/060/941/461/original/christopher-cline-lofi-genesis-discord.gif?1679651276" width="700" height="300"></center> 
